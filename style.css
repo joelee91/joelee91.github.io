@@ -1,0 +1,17 @@
+
+.pageOne .fireWorks {
+    width: 100vw;
+    display: inline-block;
+    
+}
+
+.pageOne h1 {
+    color: white;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+
+}
+.pageOne a:visited {
+    color: white;
+}
