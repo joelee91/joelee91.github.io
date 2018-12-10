@@ -55,3 +55,43 @@
 a {
   text-decoration: none;
 }
+/* .portfolio-images img {
+  width: 350px;
+  height: 250px;
+  margin: 20px 0px;
+  float: left;
+}
+.portfolio-images h1 {
+  float: left;
+  margin-left: 20px;
+}
+.portfolio-images p {
+  clear: left;
+}
+.clear-fix {
+  clear: both;
+} */
+.project1 {
+  display: flex;
+}
+.nested-project1 {
+  display: flex;
+  flex-direction: column;
+}
+.portfolio-images img {
+  width: 350px;
+  height: 250px;
+  margin: 20px 0px;
+}
+.portfolio-images h1 {
+  margin-left: 20px;
+  margin-top: 15px;
+}
+.portfolio-images p {
+  margin-left: 20px;
+  margin-top: 0px;
+}
+
+.project2 {
+  display: flex
+}
